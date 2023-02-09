@@ -1,4 +1,8 @@
-Projekt 2
+# Projekt 2
 
----------------
+## opis
+lorem
+
+## licencja
 opis
+
